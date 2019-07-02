@@ -1,6 +1,7 @@
 bl_info = {
     "name": "Random shrink/fatten per face",
     "category": "Mesh",
+    "blender": (2, 80, 0)
 }
 
 import bpy
